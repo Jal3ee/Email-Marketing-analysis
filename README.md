@@ -58,9 +58,7 @@ The insights gained from this analysis will help Shopee's management make inform
 2. country_code: An integer code for the user's country (correlation: 0.17).
 3. isLast_open_more_360: Was the last time the user opened an email more than 12 months ago? (correlation: 0.12).
 4. isLast_open_31_to_60: Was the last time the user opened an email more than 1-2 months ago? (correlation: 0.12).
-5. isLast_open_61_to_90: Was the last time the user opened an email more
-
- than 2-3 months ago? (correlation: 0.11).
+5. isLast_open_61_to_90: Was the last time the user opened an email more than 2-3 months ago? (correlation: 0.11).
 6. domain_gmail: Is the user's email domain Gmail? (correlation: 0.10).
 
 ### Strategy for Email Marketing Campaign
