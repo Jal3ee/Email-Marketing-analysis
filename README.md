@@ -16,17 +16,8 @@ The main objectives of this report are:
 3. Identify the best strategy for the email marketing campaign to maximize revenue and minimize expenses.
 
 ### Data Requirements
-The required data for analysis includes:
-- Total operating loss
-- Total revenue
-- Total cost and expenses
-- Total sales and marketing expenses
-- Email marketing campaign data:
-  - Date range
-  - Total emails sent
-  - Total emails opened
-  - Open rate
-  - Top 6 features and their descriptions
+The data for analysis is sourced from the following dataset: Shopee Code League - Marketing Analytics.
+https://www.kaggle.com/competitions/open-shopee-code-league-marketing-analytics
 
 ### Analytic Approach
 The analysis will involve the following steps:
